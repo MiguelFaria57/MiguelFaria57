@@ -1,6 +1,6 @@
 <h2 align="center">Hi 👋, I'm Miguel Faria</h2>
 <h4 align="center">Student of Informatics Engineering at <a href="https://www.uc.pt/">University of Coimbra</a></h4>
-<h4 align="center"><em>Finishing Bachelor's Degree</em></h4>
+<h4 align="center"><em>Finished Bachelor's Degree</em></h4>
 <!--![](https://media-exp1.licdn.com/dms/image/C4D16AQHpXNtKK4_LuA/profile-displaybackgroundimage-shrink_200_800/0/1656946356578?e=1662595200&v=beta&t=RL761l6VeYSqlssfOQIGsyOQW7X1jC3QjrLOETYbDYs)-->
 
 ## About Me
@@ -45,7 +45,7 @@
 
 ##
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiguelFaria57&show_icons=true&theme=github_dark"/>
+  [<img src="https://github-readme-stats.vercel.app/api?username=MiguelFaria57&show_icons=true&theme=github_dark"/>](https://github.com/MiguelFaria57)
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MiguelFaria57&layout=compact&theme=github_dark"/>
+  [<img src="https://github-readme-stats.vercel.app/api/top-langs?username=MiguelFaria57&layout=compact&theme=github_dark"/>](https://github.com/MiguelFaria57)
 </p>
