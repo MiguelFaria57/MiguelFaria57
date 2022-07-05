@@ -45,7 +45,11 @@
 
 ##
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MiguelFaria57&show_icons=true&theme=github_dark"/>
+  <a href="https://github.com/MiguelFaria57">
+    <img src="https://github-readme-stats.vercel.app/api?username=MiguelFaria57&show_icons=true&theme=github_dark"/>
+  </a>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MiguelFaria57&layout=compact&theme=github_dark"/>
+  <a href="https://github.com/MiguelFaria57">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MiguelFaria57&layout=compact&theme=github_dark"/>
+  </a>
 </p>
