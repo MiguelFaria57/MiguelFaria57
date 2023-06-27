@@ -1,6 +1,7 @@
 <h2 align="center">Hi 👋, I'm Miguel Faria</h2>
 <h4 align="center">Student of Informatics Engineering at <a href="https://www.uc.pt/">University of Coimbra</a></h4>
 <h4 align="center"><em>Finished Bachelor's Degree</em></h4>
+<h4 align="center"><em>Currently attending the Master in Intelligent Systems</em></h4>
 
 
 ## About Me
