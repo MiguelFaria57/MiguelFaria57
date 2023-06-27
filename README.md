@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Miguel Faria</h2>
 <h4 align="center">Student of Informatics Engineering at <a href="https://www.uc.pt/">University of Coimbra</a></h4>
 <h4 align="center"><em>Finished Bachelor's Degree</em></h4>
-<!--![](https://media-exp1.licdn.com/dms/image/C4D16AQHpXNtKK4_LuA/profile-displaybackgroundimage-shrink_200_800/0/1656946356578?e=1662595200&v=beta&t=RL761l6VeYSqlssfOQIGsyOQW7X1jC3QjrLOETYbDYs)-->
+
 
 ## About Me
 - Nationality: Portuguese
@@ -22,26 +22,32 @@
 
 ## Skills
 #### Programming Languages
-[![](https://badgen.net/badge/icon/Python/red?icon=https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg&label)](https://github.com/MiguelFaria57)
-[![](https://badgen.net/badge/icon/Java/red?icon=https://cdn.worldvectorlogo.com/logos/java-14.svg&label)](https://github.com/MiguelFaria57)
-[![](https://badgen.net/badge/icon/C/red?icon=https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg&label)](https://github.com/MiguelFaria57)
-[![](https://badgen.net/badge/icon/C++/red?icon=https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg&label)](https://github.com/MiguelFaria57)
-[![](https://badgen.net/badge/M/Matlab/red)](https://github.com/MiguelFaria57)
-[![](https://badgen.net/badge/icon/PostgresSQL/red?icon=https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg&label)](https://github.com/MiguelFaria57)
-[![](https://badgen.net/badge/icon/HTML/red?icon=https://cdn.worldvectorlogo.com/logos/html-1.svg&label)](https://github.com/MiguelFaria57)
-[![](https://badgen.net/badge/icon/JavaScript/red?icon=https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg&label)](https://github.com/MiguelFaria57)
+[![alt text](https://skillicons.dev/icons?i=py "Python")](https://github.com/MiguelFaria57)
+[![alt text](https://skillicons.dev/icons?i=java "Java")](https://github.com/MiguelFaria57)
+[![alt text](https://skillicons.dev/icons?i=c "C")](https://github.com/MiguelFaria57)
+[![alt text](https://skillicons.dev/icons?i=cs "C#")](https://github.com/MiguelFaria57)
+[![alt text](https://skillicons.dev/icons?i=cpp "C++")](https://github.com/MiguelFaria57)
+[![alt text](https://skillicons.dev/icons?i=react "React")](https://github.com/MiguelFaria57)
+[![alt text](https://skillicons.dev/icons?i=js "JavaScript")](https://github.com/MiguelFaria57)
+[![alt text](https://skillicons.dev/icons?i=html "HTML")](https://github.com/MiguelFaria57)
+[![alt text](https://skillicons.dev/icons?i=matlab "Matlab")](https://github.com/MiguelFaria57)
+[![alt text](https://skillicons.dev/icons?i=r "R")](https://github.com/MiguelFaria57)
 
 #### Frameworks
-[![](https://badgen.net/badge/icon/Django/yellow?icon=https://cdn.worldvectorlogo.com/logos/django.svg&label)](https://github.com/MiguelFaria57)
-[![](https://badgen.net/badge/icon/Spring/yellow?icon=https://cdn.worldvectorlogo.com/logos/spring-3.svg&label)](https://github.com/MiguelFaria57)
-[![](https://badgen.net/badge/icon/OpenGL/yellow?icon=https://upload.wikimedia.org/wikipedia/commons/e/e9/Opengl-logo.svg&label)](https://github.com/MiguelFaria57)
+[![alt text](https://skillicons.dev/icons?i=django "Django")](https://github.com/MiguelFaria57)
+[![alt text](https://skillicons.dev/icons?i=spring "Spring")](https://github.com/MiguelFaria57)
+[![alt text](https://skillicons.dev/icons?i=nodejs "NodeJS")](https://github.com/MiguelFaria57)
 
 #### Others
-[![](https://badgen.net/badge/icon/Git/blue?icon=https://cdn.worldvectorlogo.com/logos/git-icon.svg&label)](https://github.com/MiguelFaria57)
-[![](https://badgen.net/badge/icon/GitHub/blue?icon=https://cdn.worldvectorlogo.com/logos/github-icon-1.svg&label)](https://github.com/MiguelFaria57)
-[![](https://badgen.net/badge/icon/GitLab/blue?icon=https://cdn.worldvectorlogo.com/logos/gitlab.svg&label)](https://github.com/MiguelFaria57)
-[![](https://badgen.net/badge/icon/GitKraken/blue?icon=https://cdn.worldvectorlogo.com/logos/gitkraken.svg&label)](https://github.com/MiguelFaria57)
-[![](https://badgen.net/badge/icon/Docker/blue?icon=https://images.ctfassets.net/yt43m1uzs5z0/IoUCngseBmMvW3vsuIWlL/60db9e5910321cb2492b05a1f1e42d55/docker.svg&label)](https://github.com/MiguelFaria57)
+[![alt text](https://skillicons.dev/icons?i=git "Git")](https://github.com/MiguelFaria57)
+[![alt text](https://skillicons.dev/icons?i=github "GitHub")](https://github.com/MiguelFaria57)
+[![alt text](https://skillicons.dev/icons?i=gitlab "GitLab")](https://github.com/MiguelFaria57)
+[![alt text](https://skillicons.dev/icons?i=postman "Postman")](https://github.com/MiguelFaria57)
+[![alt text](https://skillicons.dev/icons?i=docker "Docker")](https://github.com/MiguelFaria57)
+[![alt text](https://skillicons.dev/icons?i=postgres "PostgresSQL")](https://github.com/MiguelFaria57)
+[![alt text](https://skillicons.dev/icons?i=unity "Unity")](https://github.com/MiguelFaria57)
+[![alt text](https://skillicons.dev/icons?i=aws "AWS")](https://github.com/MiguelFaria57)
+
 
 ##
 <p align="center">
