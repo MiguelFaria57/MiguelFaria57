@@ -34,7 +34,7 @@
 [![alt text](https://skillicons.dev/icons?i=react "React")](https://github.com/MiguelFaria57)
 [![alt text](https://skillicons.dev/icons?i=js "JavaScript")](https://github.com/MiguelFaria57)
 [![alt text](https://skillicons.dev/icons?i=html "HTML")](https://github.com/MiguelFaria57)
-[![alt text](https://skillicons.dev/icons?i=matlab "Matlab")](https://github.com/MiguelFaria57)
+[![alt text](https://skillicons.dev/icons?i=matlab "MatLab")](https://github.com/MiguelFaria57)
 [![alt text](https://skillicons.dev/icons?i=r "R")](https://github.com/MiguelFaria57)
 [![alt text](https://skillicons.dev/icons?i=postgres "PostgresSQL")](https://github.com/MiguelFaria57)
 
