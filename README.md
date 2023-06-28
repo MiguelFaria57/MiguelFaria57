@@ -6,7 +6,7 @@
 
 ## About Me
 - Nationality: Portuguese
-- Age: 21 years old
+- Age: 22 years old
 - From: Coimbra, Portugal
 - Interests: Technology, Sports, Current News  
 - Hobbies: Gaming, Watching Sports, Listening to Music, Going to the Gym
