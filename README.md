@@ -22,7 +22,7 @@
   - VS Code & Sublime Text
 - Operative Systems:
   - Windows
-  - Linux/Unix
+  - Linux
 
 ## Skills
 #### Programming Languages
