@@ -20,6 +20,9 @@
 - Favourite IDEs/Editors: 
   - JetBrains IDEs (PyCharm, IntelliJ IDEA, CLion)
   - VS Code & Sublime Text
+- Operative Systems:
+  - Windows
+  - Linux/Unix
 
 ## Skills
 #### Programming Languages
@@ -33,19 +36,19 @@
 [![alt text](https://skillicons.dev/icons?i=html "HTML")](https://github.com/MiguelFaria57)
 [![alt text](https://skillicons.dev/icons?i=matlab "Matlab")](https://github.com/MiguelFaria57)
 [![alt text](https://skillicons.dev/icons?i=r "R")](https://github.com/MiguelFaria57)
+[![alt text](https://skillicons.dev/icons?i=postgres "PostgresSQL")](https://github.com/MiguelFaria57)
 
 #### Frameworks
 [![alt text](https://skillicons.dev/icons?i=django "Django")](https://github.com/MiguelFaria57)
 [![alt text](https://skillicons.dev/icons?i=spring "Spring")](https://github.com/MiguelFaria57)
 [![alt text](https://skillicons.dev/icons?i=nodejs "NodeJS")](https://github.com/MiguelFaria57)
 
-#### Others
+#### Tools
 [![alt text](https://skillicons.dev/icons?i=git "Git")](https://github.com/MiguelFaria57)
 [![alt text](https://skillicons.dev/icons?i=github "GitHub")](https://github.com/MiguelFaria57)
 [![alt text](https://skillicons.dev/icons?i=gitlab "GitLab")](https://github.com/MiguelFaria57)
-[![alt text](https://skillicons.dev/icons?i=postman "Postman")](https://github.com/MiguelFaria57)
 [![alt text](https://skillicons.dev/icons?i=docker "Docker")](https://github.com/MiguelFaria57)
-[![alt text](https://skillicons.dev/icons?i=postgres "PostgresSQL")](https://github.com/MiguelFaria57)
+[![alt text](https://skillicons.dev/icons?i=postman "Postman")](https://github.com/MiguelFaria57)
 [![alt text](https://skillicons.dev/icons?i=unity "Unity")](https://github.com/MiguelFaria57)
 [![alt text](https://skillicons.dev/icons?i=aws "AWS")](https://github.com/MiguelFaria57)
 
