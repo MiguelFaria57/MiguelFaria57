@@ -1,12 +1,10 @@
 <h2 align="center">Hi 👋, I'm Miguel Faria</h2>
-<h4 align="center">Student of Informatics Engineering at <a href="https://www.uc.pt/">University of Coimbra</a></h4>
-<h4 align="center"><em>Finished Bachelor's Degree</em></h4>
-<h4 align="center"><em>Currently attending the Master's Degree in Intelligent Systems</em></h4>
-
+<h4 align="center">Recent Master's Graduate in Informatics Engineering, specializing in Intelligent Systems</h4>
+<br>
 
 ## About Me
 - Nationality: Portuguese
-- Age: 22 years old
+- Age: 23 years old
 - From: Coimbra, Portugal
 - Interests: Technology, Sports, Current News  
 - Hobbies: Gaming, Watching Sports, Listening to Music, Going to the Gym
@@ -36,12 +34,13 @@
 [![alt text](https://skillicons.dev/icons?i=html "HTML")](https://github.com/MiguelFaria57)
 [![alt text](https://skillicons.dev/icons?i=matlab "MatLab")](https://github.com/MiguelFaria57)
 [![alt text](https://skillicons.dev/icons?i=r "R")](https://github.com/MiguelFaria57)
-[![alt text](https://skillicons.dev/icons?i=postgres "PostgresSQL")](https://github.com/MiguelFaria57)
 
 #### Frameworks
 [![alt text](https://skillicons.dev/icons?i=django "Django")](https://github.com/MiguelFaria57)
 [![alt text](https://skillicons.dev/icons?i=spring "Spring")](https://github.com/MiguelFaria57)
 [![alt text](https://skillicons.dev/icons?i=nodejs "NodeJS")](https://github.com/MiguelFaria57)
+[![alt text](https://skillicons.dev/icons?i=nextjs "NextJS")](https://github.com/MiguelFaria57)
+[![alt text](https://skillicons.dev/icons?i=postgres "PostgresSQL")](https://github.com/MiguelFaria57)
 
 #### Tools
 [![alt text](https://skillicons.dev/icons?i=git "Git")](https://github.com/MiguelFaria57)
