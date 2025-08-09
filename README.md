@@ -1,10 +1,10 @@
 <h2 align="center">Hi 👋, I'm Miguel Faria</h2>
-<h4 align="center">Recent Master's Graduate in Informatics Engineering, specializing in Intelligent Systems</h4>
+<h4 align="center">AI Engineer & Master's Graduate in Informatics Engineering, specializing in Intelligent Systems</h4>
 <br>
 
 ## About Me
 - Nationality: Portuguese
-- Age: 23 years old
+- Age: 24 years old
 - From: Coimbra, Portugal
 - Interests: Technology, Sports, Current News  
 - Hobbies: Gaming, Watching Sports, Listening to Music, Going to the Gym
@@ -20,6 +20,7 @@
   - VS Code & Sublime Text
 - Operative Systems:
   - Windows
+  - MacOS
   - Linux
 
 ## Skills
@@ -29,18 +30,21 @@
 [![alt text](https://skillicons.dev/icons?i=c "C")](https://github.com/MiguelFaria57)
 [![alt text](https://skillicons.dev/icons?i=cs "C#")](https://github.com/MiguelFaria57)
 [![alt text](https://skillicons.dev/icons?i=cpp "C++")](https://github.com/MiguelFaria57)
-[![alt text](https://skillicons.dev/icons?i=react "React")](https://github.com/MiguelFaria57)
 [![alt text](https://skillicons.dev/icons?i=js "JavaScript")](https://github.com/MiguelFaria57)
+[![alt text](https://skillicons.dev/icons?i=ts "TypeScript")](https://github.com/MiguelFaria57)
 [![alt text](https://skillicons.dev/icons?i=html "HTML")](https://github.com/MiguelFaria57)
+[![alt text](https://skillicons.dev/icons?i=css "CSS")](https://github.com/MiguelFaria57)
 [![alt text](https://skillicons.dev/icons?i=matlab "MatLab")](https://github.com/MiguelFaria57)
-[![alt text](https://skillicons.dev/icons?i=r "R")](https://github.com/MiguelFaria57)
 
 #### Frameworks
+[![alt text](https://skillicons.dev/icons?i=flask "Flask")](https://github.com/MiguelFaria57)
 [![alt text](https://skillicons.dev/icons?i=django "Django")](https://github.com/MiguelFaria57)
 [![alt text](https://skillicons.dev/icons?i=spring "Spring")](https://github.com/MiguelFaria57)
 [![alt text](https://skillicons.dev/icons?i=nodejs "NodeJS")](https://github.com/MiguelFaria57)
 [![alt text](https://skillicons.dev/icons?i=nextjs "NextJS")](https://github.com/MiguelFaria57)
+[![alt text](https://skillicons.dev/icons?i=react "React")](https://github.com/MiguelFaria57)
 [![alt text](https://skillicons.dev/icons?i=postgres "PostgresSQL")](https://github.com/MiguelFaria57)
+[![alt text](https://skillicons.dev/icons?i=mongodb "MongoDB")](https://github.com/MiguelFaria57)
 
 #### Tools
 [![alt text](https://skillicons.dev/icons?i=git "Git")](https://github.com/MiguelFaria57)
@@ -50,7 +54,6 @@
 [![alt text](https://skillicons.dev/icons?i=postman "Postman")](https://github.com/MiguelFaria57)
 [![alt text](https://skillicons.dev/icons?i=unity "Unity")](https://github.com/MiguelFaria57)
 [![alt text](https://skillicons.dev/icons?i=aws "AWS")](https://github.com/MiguelFaria57)
-
 
 ##
 <p align="center">
