@@ -37,6 +37,7 @@
 [![alt text](https://skillicons.dev/icons?i=matlab "MatLab")](https://github.com/MiguelFaria57)
 
 #### Frameworks
+[![alt text](https://skillicons.dev/icons?i=fastapi "FastAPI")](https://github.com/MiguelFaria57)
 [![alt text](https://skillicons.dev/icons?i=flask "Flask")](https://github.com/MiguelFaria57)
 [![alt text](https://skillicons.dev/icons?i=django "Django")](https://github.com/MiguelFaria57)
 [![alt text](https://skillicons.dev/icons?i=spring "Spring")](https://github.com/MiguelFaria57)
