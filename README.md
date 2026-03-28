@@ -59,7 +59,7 @@
 ##
 <p align="center">
   <a href="https://github.com/MiguelFaria57">
-    <img src="https://github-readme-stats.vercel.app/api?username=MiguelFaria57&show_icons=true&theme=github_dark"/>
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=MiguelFaria57&show_icons=true&theme=github_dark"/>
   </a>
   <br>
   <a href="https://github.com/MiguelFaria57">
