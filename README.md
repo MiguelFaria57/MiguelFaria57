@@ -4,7 +4,7 @@
 
 ## About Me
 - Nationality: Portuguese
-- Age: 24 years old
+- Age: 25 years old
 - From: Coimbra, Portugal
 - Interests: Technology, Sports, Current News  
 - Hobbies: Gaming, Watching Sports, Listening to Music, Going to the Gym
@@ -15,13 +15,15 @@
 ####
 - Favourite Programming Language: 
   - Python
-- Favourite IDEs/Editors: 
+- Favourite IDEs/Editors:
+  - VS Code
+  - Zed
   - JetBrains IDEs (PyCharm, IntelliJ IDEA, CLion)
-  - VS Code & Sublime Text
-- Operative Systems:
-  - Windows
-  - MacOS
-  - Linux
+- Favourite AI Harnesses
+  - Claude Code
+  - Codex
+  - OpenCode
+  - Hermes Agent
 
 ## Skills
 #### Programming Languages
