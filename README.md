@@ -1,6 +1,11 @@
 <h2 align="center">Hi 👋, I'm Miguel Faria</h2>
 <h4 align="center">AI Engineer & Master's Graduate in Informatics Engineering, specializing in Intelligent Systems</h4>
 <br>
+<p align="center">
+  <a href="https://miguelfaria.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/SEULINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+<br>
 
 ## About Me
 - Nationality: Portuguese
@@ -18,53 +23,20 @@
 - Favourite IDEs/Editors:
   - VS Code
   - Zed
-  - JetBrains IDEs (PyCharm, IntelliJ IDEA, CLion)
 - Favourite AI Harnesses
   - Claude Code
   - Codex
   - OpenCode
   - Hermes Agent
 
-## Skills
-#### Programming Languages
-[![alt text](https://skillicons.dev/icons?i=py "Python")](https://github.com/MiguelFaria57)
-[![alt text](https://skillicons.dev/icons?i=java "Java")](https://github.com/MiguelFaria57)
-[![alt text](https://skillicons.dev/icons?i=c "C")](https://github.com/MiguelFaria57)
-[![alt text](https://skillicons.dev/icons?i=cs "C#")](https://github.com/MiguelFaria57)
-[![alt text](https://skillicons.dev/icons?i=cpp "C++")](https://github.com/MiguelFaria57)
-[![alt text](https://skillicons.dev/icons?i=js "JavaScript")](https://github.com/MiguelFaria57)
-[![alt text](https://skillicons.dev/icons?i=ts "TypeScript")](https://github.com/MiguelFaria57)
-[![alt text](https://skillicons.dev/icons?i=html "HTML")](https://github.com/MiguelFaria57)
-[![alt text](https://skillicons.dev/icons?i=css "CSS")](https://github.com/MiguelFaria57)
-[![alt text](https://skillicons.dev/icons?i=matlab "MatLab")](https://github.com/MiguelFaria57)
-
-#### Frameworks
-[![alt text](https://skillicons.dev/icons?i=fastapi "FastAPI")](https://github.com/MiguelFaria57)
-[![alt text](https://skillicons.dev/icons?i=flask "Flask")](https://github.com/MiguelFaria57)
-[![alt text](https://skillicons.dev/icons?i=django "Django")](https://github.com/MiguelFaria57)
-[![alt text](https://skillicons.dev/icons?i=spring "Spring")](https://github.com/MiguelFaria57)
-[![alt text](https://skillicons.dev/icons?i=nodejs "NodeJS")](https://github.com/MiguelFaria57)
-[![alt text](https://skillicons.dev/icons?i=nextjs "NextJS")](https://github.com/MiguelFaria57)
-[![alt text](https://skillicons.dev/icons?i=react "React")](https://github.com/MiguelFaria57)
-[![alt text](https://skillicons.dev/icons?i=postgres "PostgresSQL")](https://github.com/MiguelFaria57)
-[![alt text](https://skillicons.dev/icons?i=mongodb "MongoDB")](https://github.com/MiguelFaria57)
-
-#### Tools
-[![alt text](https://skillicons.dev/icons?i=git "Git")](https://github.com/MiguelFaria57)
-[![alt text](https://skillicons.dev/icons?i=github "GitHub")](https://github.com/MiguelFaria57)
-[![alt text](https://skillicons.dev/icons?i=gitlab "GitLab")](https://github.com/MiguelFaria57)
-[![alt text](https://skillicons.dev/icons?i=docker "Docker")](https://github.com/MiguelFaria57)
-[![alt text](https://skillicons.dev/icons?i=postman "Postman")](https://github.com/MiguelFaria57)
-[![alt text](https://skillicons.dev/icons?i=unity "Unity")](https://github.com/MiguelFaria57)
-[![alt text](https://skillicons.dev/icons?i=aws "AWS")](https://github.com/MiguelFaria57)
-
 ##
+<br>
 <p align="center">
   <a href="https://github.com/MiguelFaria57">
-    <img src="https://github-readme-stats-fast.vercel.app/api?username=MiguelFaria57&show_icons=true&theme=github_dark"/>
+    <img src="https://github-stats-extended.vercel.app/api?username=MiguelFaria57&show_icons=true&theme=github_dark"/>
   </a>
   <br>
   <a href="https://github.com/MiguelFaria57">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MiguelFaria57&layout=compact&theme=github_dark"/>
+    <img src="https://github-stats-extended.vercel.app/api/top-langs?username=MiguelFaria57&layout=compact&theme=github_dark"/>
   </a>
 </p>
