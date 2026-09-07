@@ -2,7 +2,7 @@
 <h4 align="center">AI Engineer & Master's Graduate in Informatics Engineering, specializing in Intelligent Systems</h4>
 <br>
 <p align="center">
-  <a href="https://miguelfaria.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logoColor=white"/></a>
+  <a href="https://miguelfaria.com"><img src="https://img.shields.io/badge/Website-C0392B?style=for-the-badge&logoColor=white"/></a>
   <a href="https://linkedin.com/in/miguelfaria57"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 <br>
